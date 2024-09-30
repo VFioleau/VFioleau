@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VFioleau
 - 👀 I’m interested in astronomy, music, festivals and HAPPY HOURS 🍻!
-- 💞️ I’m looking to collaborate on Github with MEDIAPRODX on our projects
+- 💞️ I’m looking to collaborate on Github with MEDIAPRO DEV on our projects
 - 📫 How to reach me : send email to webmaster.mediaprodx@gmail.com
 
 <!---
